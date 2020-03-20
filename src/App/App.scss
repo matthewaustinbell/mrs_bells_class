@@ -24,8 +24,29 @@
   color: white;
 }
 
+.greetingMessage {
+  font-size: 1rem;
+    margin-top: 13px;
+    margin-bottom: 60px;
+    margin-right: 90px;
+    margin-left: 85px;
+}
+
+.welcome {
+  margin-bottom: 1em;
+  font-size: 2rem;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+.classPhoto {
+  margin-bottom: 3em;
+}
+
+.passwords {
+  font-size: small;
 }
 
 @keyframes App-logo-spin {
